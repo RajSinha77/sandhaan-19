@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.jqueryscript.net	TRUE	/	FALSE	1999999999	__cfduid	d2094b10309bcaa84d1cdefb67b5d8aa01549432745
+www.techniti.in	TRUE	/	FALSE	1999999999	PHPSESSID	e82e2e0c2750e1db7c153907b106dabc
+

@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 06 Feb 2019 11:29:00 at https://www.techniti.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.techniti.in/ -O1 "C:\Users\RAJ\Music\sandhaan website\website2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:30:14	Error: 	"Not Found" (404) at link https://www.techniti.in/photo/{{img}} (from https://www.techniti.in/)
+11:30:19	Warning: 	File not parsed, looks like binary: https://www.techniti.in/local/templates/neurohive/assets/fonts/clarke/Clarke.html
+11:30:19	Warning: 	Warning: store application/octet-stream without scan: C:/Users/RAJ/Music/sandhaan website/website2/www.techniti.in/local/templates/neurohive/assets/fonts/clarke/Clarke.html
+11:30:19	Warning: 	File not parsed, looks like binary: https://www.techniti.in/local/templates/neurohive/assets/fonts/geometria/Geometria-Bold.html
+11:30:19	Warning: 	Warning: store application/octet-stream without scan: C:/Users/RAJ/Music/sandhaan website/website2/www.techniti.in/local/templates/neurohive/assets/fonts/geometria/Geometria-Bold.html
+11:30:19	Warning: 	File not parsed, looks like binary: https://www.techniti.in/local/templates/neurohive/assets/fonts/mont/Mont-Bold.html
+11:30:19	Warning: 	Warning: store application/octet-stream without scan: C:/Users/RAJ/Music/sandhaan website/website2/www.techniti.in/local/templates/neurohive/assets/fonts/mont/Mont-Bold.html
+11:30:19	Warning: 	File not parsed, looks like binary: https://www.techniti.in/local/templates/neurohive/assets/fonts/muller/MullerLight.html
+11:30:19	Warning: 	Warning: store application/octet-stream without scan: C:/Users/RAJ/Music/sandhaan website/website2/www.techniti.in/local/templates/neurohive/assets/fonts/muller/MullerLight.html
+11:30:19	Warning: 	File not parsed, looks like binary: https://www.techniti.in/local/templates/neurohive/assets/fonts/muller/MullerRegular.html
+11:30:19	Warning: 	Warning: store application/octet-stream without scan: C:/Users/RAJ/Music/sandhaan website/website2/www.techniti.in/local/templates/neurohive/assets/fonts/muller/MullerRegular.html
+11:30:19	Warning: 	File not parsed, looks like binary: https://www.techniti.in/local/templates/neurohive/assets/fonts/muller/MullerMedium.html
+11:30:19	Warning: 	Warning: store application/octet-stream without scan: C:/Users/RAJ/Music/sandhaan website/website2/www.techniti.in/local/templates/neurohive/assets/fonts/muller/MullerMedium.html
+11:30:19	Warning: 	File not parsed, looks like binary: https://www.techniti.in/local/templates/neurohive/assets/fonts/muller/MullerBold.html
+11:30:19	Warning: 	Warning: store application/octet-stream without scan: C:/Users/RAJ/Music/sandhaan website/website2/www.techniti.in/local/templates/neurohive/assets/fonts/muller/MullerBold.html
+11:30:19	Warning: 	File not parsed, looks like binary: https://www.techniti.in/local/templates/neurohive/assets/fonts/osnova/OsnovaPro-Regular.html
+11:30:19	Warning: 	Warning: store application/octet-stream without scan: C:/Users/RAJ/Music/sandhaan website/website2/www.techniti.in/local/templates/neurohive/assets/fonts/osnova/OsnovaPro-Regular.html
+11:30:19	Error: 	"Not Found" (404) at link https://techniti.in//ms-icon-144x144.png (from https://www.techniti.in/login/login.php)
+11:30:19	Error: 	"Not Found" (404) at link https://www.techniti.in/login/login/login.php (from https://www.techniti.in/login/login.php)
+11:30:22	Error: 	"Not Found" (404) at link https://www.techniti.in/societies/society_events/login/login.php (from https://www.techniti.in/societies/society_events/some.php)
+11:30:22	Error: 	"Not Found" (404) at link https://www.techniti.in/societies/society_events/Table 'techniti.event_registrations' doesn't exist (from https://www.techniti.in/societies/society_events/workshops.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 22 seconds : 98 links scanned, 92 files written (15283017 bytes overall) [14888252 bytes received at 181564 bytes/sec], 773613 bytes transferred using HTTP compression in 19 files, ratio 44%, 2.7 requests per connection
+(5 errors, 16 warnings, 0 messages)
