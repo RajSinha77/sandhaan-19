@@ -1,3 +1,1 @@
-Created by Codrops
-
-Please read about our license: http://tympanus.net/codrops/licensing/# sandhaan-19
+#SANDHAAN'19 OFFICIAL WEBSITE DEMO
